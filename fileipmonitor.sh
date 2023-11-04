@@ -1,7 +1,7 @@
 #!/bin/bash
 # fileipmonitor.sh
 # An experimental script that monitors a target file, creates a log file, and incorporates the IP address of the user who changed the file.
-# Define the file to monitor and the log file.
+# Define the file to monitor and the log file. 
 file_to_monitor="/path/to/your/file.txt"
 log_file="file_change_log.txt"
 
