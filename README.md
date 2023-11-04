@@ -4,7 +4,9 @@ A bash script experiment that not only detects changes to files in the target fi
 inotify is required for this script. To install:
 
 Ubuntu: sudo apt-get inotify-tools
+<br>
 CentOS 7: sudo yum inotify-tools
+Fedora 21: sudo dnf inotify-tools
 
 inotify is incorporated into the Linux kernel 2.16.3 and beyond. 
 
